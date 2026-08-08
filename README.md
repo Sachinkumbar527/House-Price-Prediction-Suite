@@ -330,8 +330,8 @@ SOFTWARE.
 
 **Sachin Kumbar**
 
-- GitHub: [`https://github.com/<YOUR_USERNAME>`](https://github.com/<YOUR_USERNAME>)
-- LinkedIn: `<YOUR_LINKEDIN_URL>`
+- GitHub: [`https://github.com/<YOUR_USERNAME>`](https://github.com/Sachinkumbar527)
+
 
 ---
 
